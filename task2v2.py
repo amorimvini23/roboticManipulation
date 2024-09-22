@@ -2,7 +2,7 @@
 # Escola de Engenharia de Sao Carlos - Universidade de Sao Paulo 
 # Pos Graduacao em Engenharia Mecanica
 # Manipulacao Robotica
-# Criado por: Vinicius Amorim Santos
+# Criado por: Vinicius Amorim Santos e Edson Brumatti
 ##################################################################################
 
 # Funcao de rotacao utilizando quartenions
